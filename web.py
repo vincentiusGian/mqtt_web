@@ -57,7 +57,7 @@ if "mqtt_started" not in st.session_state:
 st.set_page_config(page_title="Smart Watering", layout="centered")
 st.title("Smart Hydroponic Watering System")
 st.caption("Tracking the system...")
-st.info("Make sure that this device is connected to 'blablabla' internet connection", icon="ℹ️")
+st.info("Make sure that this device is connected to 'Galaxy A13 5718' internet connection", icon="ℹ️")
 
 
 message_placeholder = st.empty()
